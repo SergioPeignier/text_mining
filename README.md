@@ -86,3 +86,14 @@ exemples:
     + Pulseweb
 + Recomendation automatique
 + Traduction automatique
+
+## Libraries
++ nlp java: Lucen
++ sentiment analysis: 
++ summary: 
+
+## Stemming et lemmatization
++ Porter stemmer, regles en cascade (snowballC en R)
++ regles morphologiques automatiques qui coupent des sufixes
++ lemmatization base sur des dictionnaires
++ readPDF (librairies TM de R)
