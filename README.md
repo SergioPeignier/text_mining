@@ -97,3 +97,17 @@ exemples:
 + regles morphologiques automatiques qui coupent des sufixes
 + lemmatization base sur des dictionnaires
 + readPDF (librairies TM de R)
+
+
+
+https://cran.r-project.org/web/packages/slam/slam.pdf
+http://search.carrot2.org
+
+http://nbviewer.jupyter.org/github/Velcin/TM-lecture/blob/master/TM-lecture-export.ipynb
+http://wiki.dbpedia.org
+https://www.w3.org/2001/sw/wiki/Category:Semantic_Web_Browser
+http://dbarneche.github.io/2014-12-11-ufsc/lessons/01-intro_r/data-structures.html
+http://stackoverflow.com/questions/9637278/r-tm-package-invalid-input-in-utf8towcs
+http://gijn.org/2016/06/27/a-poor-journalists-text-mining-toolkit/
+Huffington post
+http://symogih.org
