@@ -111,3 +111,8 @@ http://stackoverflow.com/questions/9637278/r-tm-package-invalid-input-in-utf8tow
 http://gijn.org/2016/06/27/a-poor-journalists-text-mining-toolkit/
 Huffington post
 http://symogih.org
+
+
++ C'est mieux d'utiliser des 1-grams (mots tous seuls) que des n-grams ... ou des combinaisons des deux
++ http://tubo.lirmm.fr/biotex/
++ Para lod score es una buena idea uniformizar
