@@ -116,3 +116,23 @@ http://symogih.org
 + C'est mieux d'utiliser des 1-grams (mots tous seuls) que des n-grams ... ou des combinaisons des deux
 + http://tubo.lirmm.fr/biotex/
 + Para lod score es una buena idea uniformizar
+
+# Topic modeling
++ Algebrique
+	+ EN realidad un objeto (un texto) es una composicion de varios temas al mismo tiempo
+	+ Latent semantic analysis, NMF
+	+ Deerwaster et al. 90
++ Non negative matrix factorization. lee et al. 1999 2001 => plus facile a interpreter
++ Geometric model derivees de distances
+	+ TDT
+	+ AGAPE
++  Probabiliste approaches
+	+ pLSA
+	+ LDA
+
++ SVD est un elargissement de PCA
++ Modeles probabilistes: A. McCallum
++ Dataset tang et al. titre et abstract de plein de papiers scientifiques
++ En general ils sont disponibles les datasets
++ Palmeto java ... coherence thematiques
++ topic labeling
