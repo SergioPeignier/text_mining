@@ -122,17 +122,33 @@ http://symogih.org
 	+ EN realidad un objeto (un texto) es una composicion de varios temas al mismo tiempo
 	+ Latent semantic analysis, NMF
 	+ Deerwaster et al. 90
-+ Non negative matrix factorization. lee et al. 1999 2001 => plus facile a interpreter
+	+ Non negative matrix factorization. lee et al. 1999 2001 => plus facile a interpreter
+	+ SVD est un elargissement de PCA
+	
 + Geometric model derivees de distances
 	+ TDT
 	+ AGAPE
 +  Probabiliste approaches
 	+ pLSA
 	+ LDA
-
-+ SVD est un elargissement de PCA
-+ Modeles probabilistes: A. McCallum
-+ Dataset tang et al. titre et abstract de plein de papiers scientifiques
-+ En general ils sont disponibles les datasets
-+ Palmeto java ... coherence thematiques
-+ topic labeling
+	+ Modeles probabilistes: A. McCallum
++ Interesting:
+	+ topic detection and tracking
++ Datasets
+	+ Dataset tang et al. titre et abstract de plein de papiers scientifiques
+	+ En general ils sont disponibles les datasets des journaux (abstract et nom)
+	+ http://paperscape.org/
++ Tests
+	+ Palmeto java ... coherence thematiques
+	+ topic labeling
++ Conseils:
+	+ Des textes courts:
+		+ clustetering / ou variantes de LDA qui considerent que ce n'est que une mixture de 2 thematiques (contexte et theme)
+		
+		
+# Interesting dataset
++ markov chain monte carlo
++ non negative matrix factorization
++ topic learning
++ temporal mixture model
++ Conditional random field
